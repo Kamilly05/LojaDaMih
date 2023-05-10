@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Minha pagina inicial</title>
+<link rel="atylesheet" href="personalização.css">
 </head>
 <body>
 <h1>Minha pagina inicial</h1>
