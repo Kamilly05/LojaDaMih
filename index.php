@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Minha pagina inicial</title>
-<link rel="atylesheet" href="personalização.css">
+<link rel="stylesheet" href="personalizacao.css">
 </head>
 <body>
 <h1>Minha pagina inicial</h1>
